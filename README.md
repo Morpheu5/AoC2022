@@ -4,7 +4,10 @@ This is my attempt at the AoC 2022. I may use multiple languages.
 
 ## Table of contents
 
-* Day 1: Calorie Counting -- Ruby
+* [Day 1: Calorie Counting -- Ruby](01/01.rb)
+* [Day 2: Rock Paper Scissors -- Ruby](02/02.rb)
+* [Day 3: Rucksack Reorganization -- Swift](03/03.swift)
+* [Day 4: Camp Cleanup -- Swift](04/04.swift)
 
 ## License
 
