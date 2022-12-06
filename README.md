@@ -8,6 +8,7 @@ This is my attempt at the AoC 2022. I may use multiple languages.
 * [Day 2: Rock Paper Scissors -- Ruby](02/02.rb)
 * [Day 3: Rucksack Reorganization -- Swift](03/03.swift)
 * [Day 4: Camp Cleanup -- Swift](04/04.swift)
+* [Day 5: Supply Stacks -- Swift](05/05.swift) -- Swift text processing is a bit of a nightmare
 
 ## License
 
