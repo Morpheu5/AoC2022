@@ -9,6 +9,7 @@ This is my attempt at the AoC 2022. I may use multiple languages.
 * [Day 3: Rucksack Reorganization -- Swift](03/03.swift)
 * [Day 4: Camp Cleanup -- Swift](04/04.swift)
 * [Day 5: Supply Stacks -- Swift](05/05.swift) -- Swift text processing is a bit of a nightmare
+* [Day 6: Tuning Trouble -- Swift](06/06.swift) -- The search algorithm efficiently skips ahead when it finds a duplicate to reduce the number of comparisons
 
 ## License
 
