@@ -10,6 +10,8 @@ This is my attempt at the AoC 2022. I may use multiple languages.
 * [Day 4: Camp Cleanup -- Swift](04/04.swift)
 * [Day 5: Supply Stacks -- Swift](05/05.swift) -- Swift text processing is a bit of a nightmare
 * [Day 6: Tuning Trouble -- Swift](06/06.swift) -- The search algorithm efficiently skips ahead when it finds a duplicate to reduce the number of comparisons
+* [Day 7: No Space Left On Device](07/07.swift) -- A neat solution required quite the workout due to Swift inheritance rules and lack of raw pointers
+* [Day 8: Treetop Tree House](08/08.swift) -- The fact that I can use 🤌 as a generic type is fantastic
 
 ## License
 
